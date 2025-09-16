@@ -1,0 +1,64 @@
+.red{
+    color:red;
+    font-family: New Roman;
+}
+.navy{
+    color: navy;
+    font-family: Verdana;
+}
+.green{
+    color: lightgreen;
+
+}
+.orange{
+    color: orange;
+    font-family: Courier;
+}
+.violets{
+color: indigo;
+font-family: Arial;
+}
+.blued{
+    border: 2px solid navy;
+}
+.dottedr{
+    border:2px dotted orangered;
+    margin-top: 25px;
+}
+.dottedg{
+    border: 2px dotted green;
+    margin-top: 25px;
+}
+.orangs{
+    border: 1px solid orange;
+    margin-top: 25px;
+}
+.ind{
+    
+    border: 1px solid indigo;
+    margin-top: 25px;
+
+}
+.yel{
+    background-color: lightyellow;
+    margin-top: 25px;
+}
+.bl{
+    background-color: lightblue;
+    margin-top: 25px;
+}
+.g{
+    background-color: lightgreen;
+    margin-top: 25px;
+}
+.r{
+   
+    background-color: coral;
+    margin-top: 25px;
+    text-transform: uppercase;
+
+
+}
+p{
+    margin-left: 5px;
+}
